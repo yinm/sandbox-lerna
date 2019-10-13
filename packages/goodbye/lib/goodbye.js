@@ -1,7 +1,9 @@
-'use strict';
+"use strict";
+
+const chalk = require("chalk");
 
 module.exports = goodbye;
 
-function goodbye() {
-    // TODO
+function goodbye(name) {
+  console.log(`Goodbye ${chalk.yellow(name)}!`);
 }

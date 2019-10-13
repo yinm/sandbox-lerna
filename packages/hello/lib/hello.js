@@ -1,7 +1,9 @@
-'use strict';
+"use strict";
+
+const chalk = require("chalk");
 
 module.exports = hello;
 
-function hello() {
-    // TODO
+function hello(name) {
+  console.log(`Hello ${chalk.cyan(name)}!`);
 }
