@@ -1,1 +1,1 @@
-# sandbox-lerna
+ref: [モノレポ入門 - Gutenberg が採用するリポジトリ戦略 - Capital P](https://capitalp.jp/2019/02/19/%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%9D%E5%85%A5%E9%96%80-gutenberg-%E3%81%8C%E6%8E%A1%E7%94%A8%E3%81%99%E3%82%8B%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E6%88%A6%E7%95%A5/)
